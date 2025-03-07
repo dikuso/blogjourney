@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /about/contact/
+permalink: /about/blogjourney/contact/
 ---
 
 ## Instagram
